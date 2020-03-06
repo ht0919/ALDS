@@ -1,7 +1,6 @@
 #include<iostream>
 #include<map>
 #include<string>
-#include "ex9_5_2.h"
 using namespace std;
 
 void print(map<string, int> T) {
